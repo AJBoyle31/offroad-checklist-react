@@ -11,9 +11,4 @@ The desktop version will be laid out differently as follows:
     - When a user clicks on a box, the checklist will be displayed on the right side
     - This change will make it easier for the user to see all of the categories without having to scroll
 
- _   _   _
-|_| |_| |_|  |  -
- _   _   _   |  -
-|_| |_| |_|  |  -
- _   _   _   |  -
-|_| |_| |_|  |  -
+
