@@ -1,0 +1,106 @@
+OLD CSS FOR MOBILE
+/*Category*/
+.headerContainer {
+    background: #404040;
+    height: 77px;
+}
+.headerContainer:hover {
+    cursor: pointer;
+}
+.categoryHeader{
+    position: relative;
+    top: 5px;
+}
+.categoryHeader i {
+    margin-left: 11px;
+}
+.categoryHeader .fa-wrench {
+    font-size: 30px;
+}
+.categoryHeader .fa-angle-right {
+    font-size: 30px;
+}
+.categoryHeader span {
+    font-size: 24px;
+    font-weight: bold;
+}
+.title {
+    margin-left: 11px;
+    width: 60%;
+    display: inline-block;
+    text-transform: uppercase;
+}
+
+/*Checklists*/
+.list {
+    list-style-type: none;
+}
+li {
+  margin: 1.5em 0;
+  padding: 0;
+}
+
+
+
+
+
+
+<div class="categories">
+	<div class="headerContainer">
+		<div class="categoryHeader">
+			<img src=""/>
+			<h2 class="title">Title</h2>
+			<span class="itemsComplete">0/20</span>
+		</div>
+	</div>
+	<ul class="list">
+		<li>
+			<label class="container">Check Engine Oil
+				<input type="checkbox">
+				<span class="checkmark"></span>
+			</label>
+		</li>
+	</ul>
+</div>
+			
+			
+<li>
+	<label class="container">
+		<input type="checkbox">
+		<span class="checkmark"></span>
+	</label>
+</li>
+
+
+
+ /*
+    switch (catName){
+        case "maintenanceItem":
+            $(".maintenance .itemsComplete").html(num);
+            break;
+        case "personalItem":
+            $(".personal .itemsComplete").html(num);
+            break;
+        case "safetyItem":
+            $(".safety .itemsComplete").html(num);
+            break;
+        case "firstaidItem":
+            $(".firstaid .itemsComplete").html(num);
+            break;
+        case "recoveryItem":
+            $(".recovery .itemsComplete").html(num);
+            break;
+        case "toolsItem":
+            $(".tools .itemsComplete").html(num);
+            break;
+        case "fluidsItem":
+            $(".fluids .itemsComplete").html(num);
+            break;
+        case "spareItem":
+            $(".spare .itemsComplete").html(num);
+            break;
+    }
+    */
+		
+		
+		
